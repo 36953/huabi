@@ -1,0 +1,19 @@
+# 构建产物
+*.obj
+*.o
+*.pdb
+*.ilk
+*.res
+HuaBi.exe
+
+# 运行时配置 / 快捷方式
+huabi.ini
+*.lnk
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
